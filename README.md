@@ -50,7 +50,7 @@ It serves as a personal reference for learning, practice, and algorithmic study.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/ZhaLuc/Codeforces.git
+   git clone https://github.com/LucasZhang3/Codeforces.git
    ```
 2. Navigate into the repository:
 
