@@ -96,7 +96,3 @@ This repository is open-source. Use and modify the code for educational purposes
 ## Contact
 
 GitHub: [https://github.com/LucasZhang3](https://github.com/LucasZhang3)
-
----
-
-If you want, I can also **add badges for “C++17” and “Competitive Programming” along the top** to fully match the style of your Bluvia README and make it visually consistent. Do you want me to do that?
